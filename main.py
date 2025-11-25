@@ -12,4 +12,8 @@ matrix=[
 """
 """írd ki a mátrix elemeit egymás alá rendezve!"""
 
-feladatok.kiir(matrix)
+#feladatok.kiir(matrix)
+m=feladatok.szorzotabla_generator()
+feladatok.kiir(m)
+m2=feladatok.szorzotabla_generator_for()
+feladatok.kiir(m2)
